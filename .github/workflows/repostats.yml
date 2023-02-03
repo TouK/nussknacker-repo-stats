@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        statsRepo: ['touk/nussknacker', 'touk/nussknacker-quickstart', 'touk/nussknacker-sample-components', 'touk/nussknacker-helm', 'touk/nussknacker-flink-compatibility', 'touk/nussknacker-elasticsearch-example', 'touk/nussknacker-card-example', 'touk/nussknacker-twitter-example']
+        statsRepo: ['touk/nussknacker', 'touk/nussknacker-quickstart', 'touk/nussknacker-sample-components', 'touk/nussknacker-helm', 'touk/nussknacker-flink-compatibility', 'touk/nussknacker-elasticsearch-example', 'touk/nussknacker-card-example', 'touk/nussknacker-twitter-example', 'touk/nussknacker-credit-rating-example']
       # Do not cancel&fail all remaining jobs upon first job failure.
       fail-fast: false
       # Help avoid commit conflicts. Note(JP): this should not be
@@ -23,4 +23,4 @@ jobs:
         uses: jgehrcke/github-repo-stats@RELEASE
         with:
           repository: ${{ matrix.statsRepo }}
-          ghtoken: ${{ secrets.ORG_TRIGGER_PAT_TOKEN }}
+          ghtoken: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
