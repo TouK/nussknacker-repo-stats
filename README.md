@@ -1,3 +1,10 @@
-Repository with https://github.com/TouK/nussknacker repositories stats
-It is done to overcome 14 days traffic stats limit on GH
-To see more, read: https://github.com/marketplace/actions/github-repo-stats
+Latest repository statistics reports for Nussknacker repositories are avaialable:
+- [nussknacker](https://github.com/touk/nussknacker): [here](https://touk.github.io/nussknacker-repo-stats/touk/nussknacker/latest-report/report.html)
+- [nussknacker-quickstart](https://github.com/touk/nussknacker-quickstart): [here](https://touk.github.io/nussknacker-repo-stats/touk/nussknacker-quickstart/latest-report/report.html)
+- [nussknacker-sample-components](https://github.com/touk/nussknacker-sample-components): [here](https://touk.github.io/nussknacker-repo-stats/touk/nussknacker-sample-components/latest-report/report.html)
+- [nussknacker-helm](https://github.com/touk/nussknacker-helm): [here](https://touk.github.io/nussknacker-repo-stats/touk/nussknacker-helm/latest-report/report.html)
+- [nussknacker-flink-compatibility](https://github.com/touk/nussknacker-flink-compatibility): [here](https://touk.github.io/nussknacker-repo-stats/touk/nussknacker-flink-compatibility/latest-report/report.html)
+- [nussknacker-elasticsearch-example](https://github.com/touk/nussknacker-elasticsearch-example): [here](https://touk.github.io/nussknacker-repo-stats/touk/nussknacker-elasticsearch-example/latest-report/report.html)
+- [nussknacker-card-example](https://github.com/touk/nussknacker-card-example): [here](https://touk.github.io/nussknacker-repo-stats/touk/nussknacker-card-example/latest-report/report.html)
+- [nussknacker-twitter-example](https://github.com/touk/nussknacker-twitter-example): [here](https://touk.github.io/nussknacker-repo-stats/touk/nussknacker-twitter-example/latest-report/report.html)
+- [nussknacker-credit-rating-example](https://github.com/touk/nussknacker-credit-rating-example): [here](https://touk.github.io/nussknacker-repo-stats/touk/nussknacker-credit-rating-example/latest-report/report.html)
