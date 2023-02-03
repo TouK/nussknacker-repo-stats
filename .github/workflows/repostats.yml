@@ -8,7 +8,7 @@ on:
 
 jobs:
   run-ghrs-with-matrix:
-    name: repostats-for-nice-projects
+    name: repostats
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -23,4 +23,4 @@ jobs:
         uses: jgehrcke/github-repo-stats@RELEASE
         with:
           repository: ${{ matrix.statsRepo }}
-          ghtoken: ${{ secrets.ghrs_github_api_token }}
+          ghtoken: ${{ secrets.ORG_TRIGGER_PAT_TOKEN }}
