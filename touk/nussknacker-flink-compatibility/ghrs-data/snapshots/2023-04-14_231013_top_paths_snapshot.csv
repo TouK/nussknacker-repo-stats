@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-flink-compatibility,6,4
+/touk/nussknacker-flink-compatibility,1,1
+/TouK/nussknacker-flink-compatibility/blob/main/flink111/manager/src/it/scala/pl/touk/nussknacker/engine/management/streaming/FlinkStreamingDeploymentManagerSpec.scala,1,1
+/TouK/nussknacker-flink-compatibility/blob/main/flink111/manager/src/it/scala/pl/touk/nussknacker/engine/management/streaming/StreamingDockerTest.scala,1,1
+/TouK/nussknacker-flink-compatibility/blob/main/flink111/manager/src/main/scala/pl/touk/nussknacker/engine/management/Flink111StreamingDeploymentManagerProvider.scala,1,1
+/TouK/nussknacker-flink-compatibility/blob/main/flink111/manager/src/main/scala/pl/touk/nussknacker/engine/management/Flink111StreamingRestManager.scala,1,1
+/TouK/nussknacker-flink-compatibility/tree/main/flink111,1,1
+/TouK/nussknacker-flink-compatibility/tree/main/flink111/manager/src,1,1
+/TouK/nussknacker-flink-compatibility/tree/main/flink111/manager/src/it,1,1
+/TouK/nussknacker-flink-compatibility/tree/main/flink111/manager/src/it/scala/pl/touk/nussknacker/engine/management,1,1
