@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm/tree/main/src,6,1
+/TouK/nussknacker-helm,5,5
+/TouK/nussknacker-helm/blob/main/deploy-values-request-response.yaml,2,1
+/TouK/nussknacker-helm/blob/main/setup.sh,2,1
+/TouK/nussknacker-helm/blob/main/src/bats-suites/kafka-only.bats,2,1
+/TouK/nussknacker-helm/blob/main/build-deploy-verify.sh,1,1
+/TouK/nussknacker-helm/blob/main/postgres-secret.yaml,1,1
+/TouK/nussknacker-helm/blob/main/src/templates/role.yml,1,1
+/TouK/nussknacker-helm/commit/b1c5c1ad40118d318a8be9b4a0e86c74892174f8,1,1
+/TouK/nussknacker-helm/commit/bc25d8cb54603974a7124529b37b7f94dcecd874,1,1
