@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,38,20
+/TouK/nussknacker-quickstart/pull/135,8,4
+/TouK/nussknacker-quickstart/tree/main/docker/common,8,1
+/TouK/nussknacker-quickstart/tree/main/k8s-helm,4,2
+/TouK/nussknacker-quickstart/blob/main/docker/common/docker-compose-custom.yml,4,1
+/TouK/nussknacker-quickstart/blob/main/docker/common/docker-compose.yml,4,1
+/TouK/nussknacker-quickstart/blob/main/README.md,4,1
+/TouK/nussknacker-quickstart/tree/main/docker/streaming,4,1
+/TouK/nussknacker-quickstart/pull/135/files,3,3
+/TouK/nussknacker-quickstart/blob/fe2cc9edaf698810989d718e859ef910faf4ff6f/docker/streaming/docker-compose-streaming.yml,3,1
