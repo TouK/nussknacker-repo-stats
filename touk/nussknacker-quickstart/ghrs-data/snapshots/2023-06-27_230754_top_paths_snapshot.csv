@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,40,20
+/TouK/nussknacker-quickstart/tree/main/k8s-helm,30,3
+/TouK/nussknacker-quickstart/tree/main/docker,27,7
+/TouK/nussknacker-quickstart/tree/main/docker/common,10,4
+/TouK/nussknacker-quickstart/tree/main/common,10,3
+/TouK/nussknacker-quickstart/blob/main/.k3d/single-cluster.yml,10,1
+/TouK/nussknacker-quickstart/tree/main/docker/streaming,9,4
+/TouK/nussknacker-quickstart/tree/main,9,3
+/TouK/nussknacker-quickstart/blob/main/k8s-helm/install-common.sh,8,2
+/TouK/nussknacker-quickstart/blob/main/k8s-helm/install-streaming.sh,7,2
