@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,25,15
+/TouK/nussknacker-quickstart/tree/main/docker/streaming,6,1
+/TouK/nussknacker-quickstart/tree/main/docker,4,1
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/start.sh,3,1
+/TouK/nussknacker-quickstart/blob/main/common/scripts/runInKafka.sh,2,1
+/TouK/nussknacker-quickstart/blob/main/docker/common/invokeDocker.sh,2,1
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/docker-compose-streaming.yml,2,1
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/.env,2,1
+/TouK/nussknacker-quickstart/pulls,2,1
+/TouK/nussknacker-quickstart/tree/main/common,2,1
