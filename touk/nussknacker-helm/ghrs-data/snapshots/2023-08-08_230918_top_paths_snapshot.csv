@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm/blob/main/deploy-values-request-response.yaml,13,3
+/TouK/nussknacker-helm/tree/main/src,11,3
+/TouK/nussknacker-helm/blob/main/deploy-values-kafka-config.yaml,9,2
+/TouK/nussknacker-helm,8,5
+/TouK/nussknacker-helm/blob/main/deploy-values.yaml,7,2
+/TouK/nussknacker-helm/blob/main/setup.sh,6,3
+/TouK/nussknacker-helm/blob/main/src/values.yaml,6,2
+/TouK/nussknacker-helm/tree/main/.k3d,6,1
+/TouK/nussknacker-helm/blob/main/deploy-values-streaming-lite.yaml,4,2
+/TouK/nussknacker-helm/blob/main/.k3d/single-cluster.yml,4,1
