@@ -2,6 +2,7 @@ Latest repository statistics reports for Nussknacker repositories:
 - [nussknacker](https://touk.github.io/nussknacker-repo-stats/touk/nussknacker/latest-report/report.html)
 - [nussknacker-quickstart](https://touk.github.io/nussknacker-repo-stats/touk/nussknacker-quickstart/latest-report/report.html)
 - [nussknacker-sample-components](https://touk.github.io/nussknacker-repo-stats/touk/nussknacker-sample-components/latest-report/report.html)
+- [nussknacker-sample-helpers](https://touk.github.io/nussknacker-repo-stats/touk/nussknacker-sample-helpers/latest-report/report.html)
 - [nussknacker-helm](https://touk.github.io/nussknacker-repo-stats/touk/nussknacker-helm/latest-report/report.html)
 - [nussknacker-flink-compatibility](https://touk.github.io/nussknacker-repo-stats/touk/nussknacker-flink-compatibility/latest-report/report.html)
 - [nussknacker-elasticsearch-example](https://touk.github.io/nussknacker-repo-stats/touk/nussknacker-elasticsearch-example/latest-report/report.html)
