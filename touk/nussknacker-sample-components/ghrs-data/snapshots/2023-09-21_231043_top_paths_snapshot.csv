@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-sample-components/tree/main/components,7,3
+/TouK/nussknacker-sample-components/tree/main/flink-components,6,2
+/TouK/nussknacker-sample-components/actions,5,2
+/TouK/nussknacker-sample-components/blob/main/flink-components/src/main/scala/pl/touk/nussknacker/sample/FlinkSampleComponentProvider.scala,5,2
+/TouK/nussknacker-sample-components/blob/main/components/src/main/scala/pl/touk/nussknacker/sample/SampleComponentProvider.scala,5,1
+/touk/nussknacker-sample-components,4,4
+/TouK/nussknacker-sample-components/blob/main/lite-components/src/test/scala/pl/touk/nussknacker/sample/SampleComponentProviderLiteTest.scala,3,1
+/TouK/nussknacker-sample-components/tree/main/components/src/main,3,1
+/TouK/nussknacker-sample-components/tree/main/components/src/main/scala/pl/touk/nussknacker/sample,3,1
+/TouK/nussknacker-sample-components/tree/main/flink-components/src/main/scala/pl/touk/nussknacker/sample,3,1
