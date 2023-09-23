@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm,20,11
+/TouK/nussknacker-helm/blob/main/examples/customSecret/custom-secret-values.yaml,18,1
+/TouK/nussknacker-helm/blob/main/examples/customComponents/custom-component-url-values.yaml,14,3
+/TouK/nussknacker-helm/pull/113,10,3
+/TouK/nussknacker-helm/blob/main/deploy-values-kafka-config.yaml,10,2
+/TouK/nussknacker-helm/blob/main/deploy-values-request-response.yaml,10,2
+/TouK/nussknacker-helm/blob/main/deploy-values-streaming-lite.yaml,10,2
+/TouK/nussknacker-helm/blob/main/deploy-values.yaml,10,2
+/TouK/nussknacker-helm/blob/main/examples/customComponents/custom-component-docker-values.yaml,10,2
+/TouK/nussknacker-helm/tree/main/examples,9,3
