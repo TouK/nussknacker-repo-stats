@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm,11,6
+/TouK/nussknacker-helm/tree/main/src,8,2
+/TouK/nussknacker-helm/tree/main/src/templates,5,2
+/TouK/nussknacker-helm/blob/main/src/Chart.yaml,4,1
+/TouK/nussknacker-helm/blob/main/build-deploy-verify.sh,3,1
+/TouK/nussknacker-helm/pull/112,3,1
+/TouK/nussknacker-helm/pull/112/files,3,1
+/TouK/nussknacker-helm/blob/aa2ff275b163824557382a1f5898f71e5c77cf0c/deploy-values-kafka-config.yaml,2,1
+/TouK/nussknacker-helm/blob/aa2ff275b163824557382a1f5898f71e5c77cf0c/deploy-values-request-response.yaml,2,1
+/TouK/nussknacker-helm/blob/aa2ff275b163824557382a1f5898f71e5c77cf0c/deploy-values-streaming-lite.yaml,2,1
