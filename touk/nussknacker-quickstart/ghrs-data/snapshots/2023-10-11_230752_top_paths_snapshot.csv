@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart/tree/main/docker,34,3
+/TouK/nussknacker-quickstart/tree/main/docker/streaming,28,3
+/TouK/nussknacker-quickstart,22,13
+/TouK/nussknacker-quickstart/tree/main/docker/common,15,3
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/docker-compose-streaming.yml,9,1
+/TouK/nussknacker-quickstart/blob/main/docker/common/docker-compose.yml,6,1
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/start.sh,6,1
+/TouK/nussknacker-quickstart/blob/main/docker/common/invokeDocker.sh,4,1
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/.env,4,1
+/TouK/nussknacker-quickstart/tree/main/docker/common/grafana,4,1
