@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart/tree/main/docker,65,9
+/TouK/nussknacker-quickstart/tree/main/docker/streaming,52,7
+/TouK/nussknacker-quickstart,45,22
+/TouK/nussknacker-quickstart/tree/main/docker/common,37,7
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/docker-compose-streaming.yml,29,4
+/TouK/nussknacker-quickstart/blob/main/docker/common/docker-compose.yml,16,6
+/TouK/nussknacker-quickstart/tree/main,14,4
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/start.sh,11,3
+/TouK/nussknacker-quickstart/tree/main/k8s-helm,11,1
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/flink/flink-conf.yaml,8,3
