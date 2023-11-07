@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-sample-helpers/blob/main/src/main/scala/pl/touk/nussknacker/sample/CustomHelper.scala,22,1
+/TouK/nussknacker-sample-helpers/blob/main/helpers/build.gradle.kts,8,1
+/TouK/nussknacker-sample-helpers/blob/main/src/main/scala/pl/touk/nussknacker/sample/CustomProcessConfigCreator.scala,8,1
+/TouK/nussknacker-sample-helpers/tree/main/helpers,5,1
+/touk/nussknacker-sample-helpers,3,2
+/TouK/nussknacker-sample-helpers/blob/main/src/main/resources/META-INF/services/pl.touk.nussknacker.engine.api.process.ProcessConfigCreator,2,1
+/TouK/nussknacker-sample-helpers/tree/main,2,1
+/TouK/nussknacker-sample-helpers/tree/main/src/main/scala/pl/touk/nussknacker/sample,2,1
