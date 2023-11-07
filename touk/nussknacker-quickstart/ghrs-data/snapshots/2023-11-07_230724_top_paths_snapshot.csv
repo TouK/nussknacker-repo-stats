@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,49,24
+/TouK/nussknacker-quickstart/tree/main/docker,34,6
+/TouK/nussknacker-quickstart/tree/main/common/scripts,32,2
+/TouK/nussknacker-quickstart/actions,27,1
+/TouK/nussknacker-quickstart/actions/workflows/pr.yml,22,1
+/TouK/nussknacker-quickstart/tree/main/common,21,2
+/TouK/nussknacker-quickstart/pull/150,20,5
+/TouK/nussknacker-quickstart/tree/main/docker/common,20,3
+/TouK/nussknacker-quickstart/tree/main/docker/streaming,17,5
+/TouK/nussknacker-quickstart/blob/main/common/scripts/sendToKafka.sh,14,1
