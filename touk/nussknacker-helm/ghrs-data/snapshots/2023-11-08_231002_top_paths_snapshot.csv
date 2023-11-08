@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm/actions,20,3
+/TouK/nussknacker-helm/pulls,17,4
+/TouK/nussknacker-helm,16,4
+/TouK/nussknacker-helm/pull/123,12,1
+/TouK/nussknacker-helm/pull/122,10,2
+/TouK/nussknacker-helm/pull/120,7,2
+/TouK/nussknacker-helm/pull/122/files,5,1
+/TouK/nussknacker-helm/pull/123/commits,5,1
+/TouK/nussknacker-helm/blob/main/src/templates/configmap.yaml,4,1
+/TouK/nussknacker-helm/actions/runs/6746103738,3,2
