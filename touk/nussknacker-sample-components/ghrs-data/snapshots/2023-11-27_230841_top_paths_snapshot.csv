@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/touk/nussknacker-sample-components,10,7
+/TouK/nussknacker-sample-components/tree/main/components,6,2
+/TouK/nussknacker-sample-components/tree/main/components/src/main,6,2
+/TouK/nussknacker-sample-components/blob/main/components/src/main/resources/META-INF/services/pl.touk.nussknacker.engine.api.component.ComponentProvider,4,1
+/TouK/nussknacker-sample-components/pull/28,3,1
+/TouK/nussknacker-sample-components/tree/main/components/src/main/resources/META-INF/services,3,1
+/TouK/nussknacker-sample-components/tree/main/components/src/main/scala/pl/touk/nussknacker/sample,3,1
+/TouK/nussknacker-sample-components/tree/main/lite-components,3,1
+/TouK/nussknacker-sample-components/blob/main/build.gradle.kts,2,1
+/TouK/nussknacker-sample-components/blob/main/components/src/main/scala/pl/touk/nussknacker/sample/SampleComponentProvider.scala,2,1
