@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart/actions/workflows/benchmark-workflow.yml,79,2
+/TouK/nussknacker-quickstart/actions,59,2
+/TouK/nussknacker-quickstart,45,28
+/TouK/nussknacker-quickstart/tree/main/docker,42,5
+/TouK/nussknacker-quickstart/pulls,25,3
+/TouK/nussknacker-quickstart/pull/150,20,4
+/TouK/nussknacker-quickstart/tree/main/common,16,4
+/TouK/nussknacker-quickstart/pull/152,13,2
+/TouK/nussknacker-quickstart/tree/main/k8s-helm,12,2
+/TouK/nussknacker-quickstart/tree/main/docker/streaming,10,4
