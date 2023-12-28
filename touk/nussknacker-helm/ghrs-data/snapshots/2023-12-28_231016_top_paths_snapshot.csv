@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm/pull/126,23,2
+/TouK/nussknacker-helm,7,5
+/TouK/nussknacker-helm/pull/126/files,6,2
+/TouK/nussknacker-helm/blob/02fb4ecbd225a4786e1f59dd0978b0cf83d56ba1/src/templates/configmap.yaml,2,1
+/TouK/nussknacker-helm/blob/preview/grafana_provisioning/src/Chart.yaml,2,1
+/TouK/nussknacker-helm/pull/126/commits,2,1
+/TouK/nussknacker-helm/tree/preview/grafana_provisioning/src,2,1
+/TouK/nussknacker-helm/actions/runs/7264860781/job/19793465574,1,1
+/TouK/nussknacker-helm/commits,1,1
+/TouK/nussknacker-helm/compare/preview/upgrade_telegraf_config,1,1
