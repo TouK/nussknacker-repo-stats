@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm/actions,64,5
+/TouK/nussknacker-helm/pulls,38,5
+/TouK/nussknacker-helm,36,10
+/TouK/nussknacker-helm/tree/main/src,16,3
+/TouK/nussknacker-helm/actions/workflows/helm-test-workflow.yaml,13,4
+/TouK/nussknacker-helm/commits/main,13,3
+/TouK/nussknacker-helm/pull/128,10,1
+/TouK/nussknacker-helm/tree/main/.github/workflows,9,1
+/TouK/nussknacker-helm/blob/main/src/Chart.yaml,8,3
+/TouK/nussknacker-helm/blob/main/.github/workflows/helm-test-workflow.yaml,8,2
