@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm/tree/main/src,18,2
+/TouK/nussknacker-helm/blob/main/src/Chart.yaml,12,2
+/TouK/nussknacker-helm,9,6
+/TouK/nussknacker-helm/tree/main/src/templates,9,2
+/TouK/nussknacker-helm/blob/main/setup.sh,8,2
+/TouK/nussknacker-helm/pulls,7,3
+/TouK/nussknacker-helm/blob/main/build-deploy-verify.sh,6,2
+/TouK/nussknacker-helm/commits/main,6,1
+/TouK/nussknacker-helm/commit/8479a34fb965cb9e830ceb5e2959b27ee656b355,5,2
+/TouK/nussknacker-helm/tree/main/.k3d,5,2
