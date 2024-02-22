@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-sample-components/tree/main/docker,18,4
+/TouK/nussknacker-sample-components/tree/main,13,4
+/TouK/nussknacker-sample-components/blob/main/docker/Dockerfile,10,5
+/TouK/nussknacker-sample-components/tree/main/gradle/wrapper,10,3
+/TouK/nussknacker-sample-components/blob/main/gradle/wrapper/gradle-wrapper.properties,6,2
+/TouK/nussknacker-sample-components/tree/main/lite-components,6,2
+/TouK/nussknacker-sample-components/blob/main/components/src/main/scala/pl/touk/nussknacker/sample/SampleComponentProvider.scala,6,1
+/touk/nussknacker-sample-components,5,4
+/TouK/nussknacker-sample-components/blob/main/docker/runDocker.sh,4,2
+/TouK/nussknacker-sample-components/blob/main/gradle/wrapper/gradle-wrapper.jar,4,2
