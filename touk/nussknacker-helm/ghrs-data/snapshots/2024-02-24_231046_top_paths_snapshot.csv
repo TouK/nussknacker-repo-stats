@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm/tree/main/src,22,4
+/TouK/nussknacker-helm/blob/main/src/Chart.yaml,14,3
+/TouK/nussknacker-helm/tree/main/src/templates,9,2
+/TouK/nussknacker-helm/blob/main/src/README.md,6,3
+/TouK/nussknacker-helm/blob/main/setup.sh,6,2
+/TouK/nussknacker-helm,5,5
+/TouK/nussknacker-helm/tree/main/.k3d,5,2
+/TouK/nussknacker-helm/blob/main/build-deploy-verify.sh,4,2
+/TouK/nussknacker-helm/blob/main/.k3d/single-cluster.yml,4,2
+/TouK/nussknacker-helm/actions/workflows/helm-test-workflow.yaml,3,1
