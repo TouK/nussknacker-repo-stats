@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-card-example,2,2
+/TouK/nussknacker-card-example/blob/main/docker/docker-compose.yml,2,1
+/TouK/nussknacker-card-example/blob/main/generator/generate.py,2,1
+/TouK/nussknacker-card-example/blob/main/generator/requirements.txt,2,1
+/TouK/nussknacker-card-example/blob/main/model/conda.txt,2,1
+/TouK/nussknacker-card-example/blob/main/model/credit-card-fraud-classification-rf.ipynb,2,1
+/TouK/nussknacker-card-example/blob/main/schemas/cain.001-value.json,2,1
+/TouK/nussknacker-card-example/blob/main/schemas/cain.002.response-value.json,2,1
+/TouK/nussknacker-card-example/blob/main/schemas/create.sh,2,1
+/TouK/nussknacker-card-example/blob/main/schemas/Dockerfile,2,1
