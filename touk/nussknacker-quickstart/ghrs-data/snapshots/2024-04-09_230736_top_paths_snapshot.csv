@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,22,16
+/TouK/nussknacker-quickstart/tree/main/docker,7,3
+/TouK/nussknacker-quickstart/tree/main/k8s-helm,4,1
+/TouK/nussknacker-quickstart/tree/main,3,3
+/TouK/nussknacker-quickstart/pulls,3,2
+/TouK/nussknacker-quickstart/tree/main/docker/common,3,1
+/TouK/nussknacker-quickstart/blob/main/docker/common/docker-compose.yml,2,1
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/flink/log4j-console.properties,2,1
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/nussknacker/nussknacker.conf,2,1
+/TouK/nussknacker-quickstart/blob/main/k8s-helm/install-common.sh,2,1
