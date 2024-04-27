@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm,9,8
+/TouK/nussknacker-helm/pull/141,8,2
+/TouK/nussknacker-helm/blob/main/deploy-values.yaml,6,3
+/TouK/nussknacker-helm/pulls,5,4
+/TouK/nussknacker-helm/compare/main...preview/mpk-additional-module-classpath,3,2
+/TouK/nussknacker-helm/pull/141/files,3,2
+/TouK/nussknacker-helm/tree/main/examples,3,1
+/TouK/nussknacker-helm/compare,2,2
+/TouK/nussknacker-helm/blob/main/examples/customComponents/custom-component-docker-values.yaml,2,1
+/TouK/nussknacker-helm/pull/142,2,1
