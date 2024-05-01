@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/touk/nussknacker-sample-components,3,3
+/TouK/nussknacker-sample-components/blob/main/components/src/main/scala/pl/touk/nussknacker/sample/SampleComponentProvider.scala,2,1
+/TouK/nussknacker-sample-components/blob/main/flink-components/src/main/scala/pl/touk/nussknacker/sample/csv/CsvSinkFunction.scala,2,1
+/TouK/nussknacker-sample-components/blob/main/flink-components/src/main/scala/pl/touk/nussknacker/sample/csv/CsvSink.scala,2,1
+/TouK/nussknacker-sample-components/blob/main/flink-components/src/main/scala/pl/touk/nussknacker/sample/csv/CsvSourceFunction.scala,2,1
+/TouK/nussknacker-sample-components/blob/main/flink-components/src/main/scala/pl/touk/nussknacker/sample/csv/CsvSource.scala,2,1
+/TouK/nussknacker-sample-components/blob/main/flink-components/src/main/scala/pl/touk/nussknacker/sample/csv/GenericCsvSourceFactory.scala,2,1
+/TouK/nussknacker-sample-components/tree/main/components,2,1
+/TouK/nussknacker-sample-components/tree/main/components/src/main,2,1
+/TouK/nussknacker-sample-components/tree/main/components/src/main/scala/pl/touk/nussknacker/sample,2,1
