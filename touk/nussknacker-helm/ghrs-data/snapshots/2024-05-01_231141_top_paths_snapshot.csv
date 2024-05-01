@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm/blob/main/deploy-values.yaml,10,3
+/TouK/nussknacker-helm,5,4
+/TouK/nussknacker-helm/blob/main/build-deploy-verify.sh,4,1
+/TouK/nussknacker-helm/blob/main/deploy-values-streaming-lite.yaml,4,1
+/TouK/nussknacker-helm/compare/main...preview/mpk-additional-module-classpath,3,2
+/TouK/nussknacker-helm/compare,2,2
+/TouK/nussknacker-helm/pulls,2,2
+/TouK/nussknacker-helm/blob/main/deploy-values-db-hsql.yaml,2,1
+/TouK/nussknacker-helm/blob/main/deploy-values-lite-both-processing-modes.yaml,2,1
+/TouK/nussknacker-helm/blob/main/deploy-values-request-response.yaml,2,1
