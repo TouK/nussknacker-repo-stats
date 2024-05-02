@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,15,12
+/TouK/nussknacker-quickstart/tree/main/k8s-helm,10,2
+/TouK/nussknacker-quickstart/tree/main/k8s-helm/additional,8,2
+/TouK/nussknacker-quickstart/blob/main/k8s-helm/values-streaming.yaml,6,2
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/nussknacker/nussknacker.conf,4,2
+/TouK/nussknacker-quickstart/blob/main/k8s-helm/additional/install-streaming.sh,4,2
+/TouK/nussknacker-quickstart/blob/telecom_marketing_campaign/cdrs-value.txt,4,2
+/TouK/nussknacker-quickstart/tree/main/common,4,2
+/TouK/nussknacker-quickstart/tree/main/docker,4,2
+/TouK/nussknacker-quickstart/blob/telecom_marketing_campaign/marketing-messages-value.txt,3,1
