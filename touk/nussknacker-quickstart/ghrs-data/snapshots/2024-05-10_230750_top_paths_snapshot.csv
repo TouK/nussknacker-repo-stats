@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart/tree/main/k8s-helm,36,3
+/TouK/nussknacker-quickstart,29,14
+/TouK/nussknacker-quickstart/blob/main/k8s-helm/install-common.sh,16,1
+/TouK/nussknacker-quickstart/tree/main/k8s-helm/additional,13,2
+/TouK/nussknacker-quickstart/tree/main/docker,11,4
+/TouK/nussknacker-quickstart/tree/main/docker/streaming,9,3
+/TouK/nussknacker-quickstart/tree/main/k8s-helm/scripts,9,3
+/TouK/nussknacker-quickstart/blob/main/k8s-helm/values-streaming.yaml,8,3
+/TouK/nussknacker-quickstart/blob/telecom_marketing_campaign/cdrs-value.txt,8,2
+/TouK/nussknacker-quickstart/blob/main/k8s-helm/install-streaming.sh,8,1
