@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,17,12
+/TouK/nussknacker-quickstart/tree/main/k8s-helm,8,3
+/TouK/nussknacker-quickstart/tree/main/docker,5,2
+/TouK/nussknacker-quickstart/tree/main/docker/streaming,4,2
+/TouK/nussknacker-quickstart/blob/main/k8s-helm/install-request-response.sh,3,1
+/TouK/nussknacker-quickstart/tree/main/k8s-helm/scripts,3,1
+/TouK/nussknacker-quickstart/blob/2a558db8a79783f485268d33261afd3e33c8e43f/docker/streaming/flink/flink-conf.yaml,2,1
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/docker-compose-streaming.yml,2,1
+/TouK/nussknacker-quickstart/blob/main/k8s-helm/postgres-secret.yaml,2,1
+/TouK/nussknacker-quickstart/blob/main/k8s-helm/scenarios/DetectLargeTransactionsLite.json,2,1
