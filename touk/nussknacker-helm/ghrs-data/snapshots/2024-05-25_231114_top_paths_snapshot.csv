@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm/blob/main/src/grafana/nussknacker-lite-scenario.json,12,1
+/TouK/nussknacker-helm/blob/main/src/grafana/dashboard.json,8,1
+/TouK/nussknacker-helm/blob/main/src/templates/configmap.yaml,8,1
+/TouK/nussknacker-helm/blob/main/src/values.yaml,6,1
+/TouK/nussknacker-helm/tree/9438ac43b54b3545ef64b3fad7825246d6dc7f14/examples,6,1
+/TouK/nussknacker-helm/tree/9438ac43b54b3545ef64b3fad7825246d6dc7f14/examples/customComponents,6,1
+/TouK/nussknacker-helm,5,4
+/TouK/nussknacker-helm/tree/main/src/grafana,4,2
+/TouK/nussknacker-helm/tree/main/src/templates,4,2
+/TouK/nussknacker-helm/blob/9438ac43b54b3545ef64b3fad7825246d6dc7f14/examples/customConfig/custom-conf-values.yaml,4,1
