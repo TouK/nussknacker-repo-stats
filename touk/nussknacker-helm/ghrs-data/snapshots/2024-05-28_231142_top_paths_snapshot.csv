@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm/tree/9438ac43b54b3545ef64b3fad7825246d6dc7f14/examples,6,1
+/TouK/nussknacker-helm/tree/9438ac43b54b3545ef64b3fad7825246d6dc7f14/examples/customComponents,6,1
+/TouK/nussknacker-helm,5,4
+/TouK/nussknacker-helm/blob/9438ac43b54b3545ef64b3fad7825246d6dc7f14/examples/customConfig/custom-conf-values.yaml,4,1
+/TouK/nussknacker-helm/blob/main/src/templates/configmap.yaml,4,1
+/TouK/nussknacker-helm/blob/main/src/values.yaml,4,1
+/TouK/nussknacker-helm/tree/9438ac43b54b3545ef64b3fad7825246d6dc7f14/examples/customSecret,4,1
+/TouK/nussknacker-helm/blob/9438ac43b54b3545ef64b3fad7825246d6dc7f14/examples/customComponents/custom-component-docker-values.yaml,2,1
+/TouK/nussknacker-helm/blob/9438ac43b54b3545ef64b3fad7825246d6dc7f14/examples/customComponents/custom-component-url-values.yaml,2,1
+/TouK/nussknacker-helm/blob/9438ac43b54b3545ef64b3fad7825246d6dc7f14/examples/customSecret/custom-secret-values.yaml,2,1
