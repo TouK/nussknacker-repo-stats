@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-elasticsearch-example/blob/master/docker-compose.yaml,8,1
+/TouK/nussknacker-elasticsearch-example/blob/master/nginx/nginx.conf,2,1
+/TouK/nussknacker-elasticsearch-example/blob/master/put-connector.sh,2,1
+/TouK/nussknacker-elasticsearch-example/blob/master/test-data/business-event-1.json,2,1
+/TouK/nussknacker-elasticsearch-example/blob/master/test-data/business-event-2.json,2,1
+/TouK/nussknacker-elasticsearch-example/blob/master/test-data/post-data.sh,2,1
+/TouK/nussknacker-elasticsearch-example/blob/master/test-scenario.json,2,1
+/TouK/nussknacker-elasticsearch-example,1,1
