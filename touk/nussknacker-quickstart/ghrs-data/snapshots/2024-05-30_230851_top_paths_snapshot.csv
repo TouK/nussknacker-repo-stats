@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,15,8
+/TouK/nussknacker-quickstart/tree/main/docker,13,5
+/TouK/nussknacker-quickstart/tree/main/docker/streaming,6,3
+/TouK/nussknacker-quickstart/tree/main/common,4,1
+/TouK/nussknacker-quickstart/tree/main,3,3
+/TouK/nussknacker-quickstart/tree/telecom_marketing_campaign,3,2
+/TouK/nussknacker-quickstart/pull/162/files,3,1
+/TouK/nussknacker-quickstart/blob/main/common/schemas/createSchemas.sh,2,1
+/TouK/nussknacker-quickstart/blob/main/docker/common/displayAllDockerLogs.sh,2,1
+/TouK/nussknacker-quickstart/blob/main/docker/common/docker-compose-custom.yml,2,1
