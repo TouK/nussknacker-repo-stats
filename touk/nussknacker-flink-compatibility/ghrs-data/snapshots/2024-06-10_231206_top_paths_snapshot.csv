@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-flink-compatibility,3,3
+/TouK/nussknacker-flink-compatibility/pull/53,3,1
+/TouK/nussknacker-flink-compatibility/pull/53/files,3,1
+/TouK/nussknacker-flink-compatibility/blob/main/flink116/manager/src/it/scala/pl/touk/nussknacker/engine/management/streaming/Flink116StreamingDeploymentManagerSpec.scala,2,1
+/TouK/nussknacker-flink-compatibility/blob/main/flink116/model/src/test/resources/application.conf,2,1
+/TouK/nussknacker-flink-compatibility/blob/main/flink116/model/src/test/resources/META-INF/services/pl.touk.nussknacker.engine.api.component.ComponentProvider,2,1
+/TouK/nussknacker-flink-compatibility/blob/main/flink116/model/src/test/scala/pl/touk/nussknacker/compatibility/Flink116GenericITSpec.scala,2,1
+/TouK/nussknacker-flink-compatibility/pull/53/commits,2,1
+/TouK/nussknacker-flink-compatibility/pull/53/commits/30e5df8702aa8018a7137dd187fa3110c92a8cfc,2,1
+/TouK/nussknacker-flink-compatibility/tree/main/flink116,2,1
