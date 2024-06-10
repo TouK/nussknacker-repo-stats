@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart/tree/main/docker,12,5
+/TouK/nussknacker-quickstart,11,9
+/TouK/nussknacker-quickstart/tree/main/k8s-helm,9,2
+/TouK/nussknacker-quickstart/tree/main/docker/streaming,6,2
+/TouK/nussknacker-quickstart/tree/main/k8s-helm/scenarios,4,1
+/TouK/nussknacker-quickstart/tree/main/k8s-helm/additional,3,1
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/docker-compose-streaming.yml,2,1
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/start.sh,2,1
+/TouK/nussknacker-quickstart/blob/main/k8s-helm/additional/akhq.yaml,2,1
+/TouK/nussknacker-quickstart/blob/main/k8s-helm/install-streaming.sh,2,1
