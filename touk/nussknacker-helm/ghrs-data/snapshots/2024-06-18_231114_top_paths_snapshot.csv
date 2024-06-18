@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm,7,5
+/TouK/nussknacker-helm/actions,6,2
+/TouK/nussknacker-helm/commit/118743ade7eda920a89d46d3db956cdfd59c2397,4,3
+/TouK/nussknacker-helm/blob/main/examples/customComponents/custom-component-url-values.yaml,4,1
+/TouK/nussknacker-helm/blob/main/src/README.md,3,1
+/TouK/nussknacker-helm/pulls,2,2
+/TouK/nussknacker-helm/actions/runs/9470771706,2,1
+/TouK/nussknacker-helm/blob/main/deploy-values-db-hsql.yaml,2,1
+/TouK/nussknacker-helm/blob/main/deploy-values-kafka-config.yaml,2,1
+/TouK/nussknacker-helm/blob/main/deploy-values-lite-both-processing-modes.yaml,2,1
