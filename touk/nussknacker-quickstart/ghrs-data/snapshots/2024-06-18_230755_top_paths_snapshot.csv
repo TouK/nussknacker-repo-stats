@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart/tree/main/docker,19,5
+/TouK/nussknacker-quickstart/tree/main/docker/streaming,14,5
+/TouK/nussknacker-quickstart,12,10
+/TouK/nussknacker-quickstart/tree/main/docker/common,9,2
+/TouK/nussknacker-quickstart/tree/main/k8s-helm,9,2
+/TouK/nussknacker-quickstart/blob/main/docker/common/docker-compose-custom.yml,4,1
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/nussknacker/nussknacker.conf,4,1
+/TouK/nussknacker-quickstart/blob/staging/docker/streaming/scenarios/DetectLargeTransactions.json,4,1
+/TouK/nussknacker-quickstart/tree/main/docker/common/customerservice,4,1
+/TouK/nussknacker-quickstart/tree/main/k8s-helm/scenarios,4,1
