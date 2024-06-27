@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,27,10
+/TouK/nussknacker-quickstart/tree/main/k8s-helm,17,2
+/TouK/nussknacker-quickstart/blob/main/docker/common/customerservice/main.py,14,1
+/TouK/nussknacker-quickstart/blob/main/docker/common/customerservice/Dockerfile,12,1
+/TouK/nussknacker-quickstart/blob/main/docker/common/customerservice/Readme.md,12,1
+/TouK/nussknacker-quickstart/blob/main/docker/common/docker-compose-custom.yml,10,1
+/TouK/nussknacker-quickstart/blob/main/docker/common/docker-compose-env.yml,10,1
+/TouK/nussknacker-quickstart/blob/main/docker/common/docker-compose.yml,10,1
+/TouK/nussknacker-quickstart/blob/main/docker/common/customerservice/requirements.txt,8,1
+/TouK/nussknacker-quickstart/blob/main/k8s-helm/install-request-response.sh,8,1
