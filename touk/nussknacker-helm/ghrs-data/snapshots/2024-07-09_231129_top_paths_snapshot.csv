@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm/blob/main/deploy-values.yaml,23,3
+/TouK/nussknacker-helm/tree/main/src,23,3
+/TouK/nussknacker-helm,22,8
+/TouK/nussknacker-helm/blob/main/src/values.yaml,18,2
+/TouK/nussknacker-helm/tree/main/examples,14,4
+/TouK/nussknacker-helm/tree/main/src/templates,13,2
+/TouK/nussknacker-helm/blob/main/setup.sh,12,3
+/TouK/nussknacker-helm/blob/main/deploy-values-request-response.yaml,12,2
+/TouK/nussknacker-helm/blob/main/deploy-values-streaming-lite.yaml,12,2
+/TouK/nussknacker-helm/blob/main/postgres-secret.yaml,12,1
