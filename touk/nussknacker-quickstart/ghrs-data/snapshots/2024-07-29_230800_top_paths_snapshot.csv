@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart/blob/main/docker-compose.yml,58,1
+/TouK/nussknacker-quickstart,13,4
+/TouK/nussknacker-quickstart/tree/main/k8s-helm,10,1
+/TouK/nussknacker-quickstart/tree/main/grafana,8,2
+/TouK/nussknacker-quickstart/blob/main/grafana/dashboards/nussknacker-lite-scenario.json,8,1
+/TouK/nussknacker-quickstart/tree/main,7,2
+/TouK/nussknacker-quickstart/blob/main/grafana/datasources/datasources.yml,6,1
+/TouK/nussknacker-quickstart/tree/main/quickstart-setup,4,2
+/TouK/nussknacker-quickstart/blob/main/grafana/dashboards/dashboards.yml,4,1
+/TouK/nussknacker-quickstart/blob/main/grafana/dashboards/nussknacker-request-response-scenario.json,4,1
