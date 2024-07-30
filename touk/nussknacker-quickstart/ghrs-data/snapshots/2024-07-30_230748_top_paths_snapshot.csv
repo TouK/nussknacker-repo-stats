@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart/blob/main/docker-compose.yml,83,2
+/TouK/nussknacker-quickstart,20,8
+/TouK/nussknacker-quickstart/blob/main/flink/Dockerfile,12,1
+/TouK/nussknacker-quickstart/tree/main,11,4
+/TouK/nussknacker-quickstart/tree/main/grafana,10,2
+/TouK/nussknacker-quickstart/blob/main/grafana/dashboards/nussknacker-lite-scenario.json,10,1
+/TouK/nussknacker-quickstart/tree/main/k8s-helm,10,1
+/TouK/nussknacker-quickstart/blob/main/start.sh,8,2
+/TouK/nussknacker-quickstart/blob/main/designer/application-customizations.conf,8,1
+/TouK/nussknacker-quickstart/blob/main/flink/flink-properties.yml,8,1
