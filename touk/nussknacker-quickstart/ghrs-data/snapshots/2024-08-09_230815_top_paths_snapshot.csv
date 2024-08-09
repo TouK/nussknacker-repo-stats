@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart/blob/main/docker-compose.yml,60,5
+/TouK/nussknacker-quickstart,22,8
+/TouK/nussknacker-quickstart/tree/main/docker,22,2
+/TouK/nussknacker-quickstart/blob/main/telegraf/telegraf.conf,20,4
+/TouK/nussknacker-quickstart/blob/main/flink/Dockerfile,18,2
+/TouK/nussknacker-quickstart/pull/181,16,3
+/TouK/nussknacker-quickstart/blob/main/designer/application-customizations.conf,14,3
+/TouK/nussknacker-quickstart/pulls,14,3
+/TouK/nussknacker-quickstart/blob/integration/aad-oidc/docker/common/docker-compose-env.yml,14,1
+/TouK/nussknacker-quickstart/blob/main/start.sh,12,3
