@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,15,12
+/TouK/nussknacker-quickstart/tree/main/docker,14,2
+/TouK/nussknacker-quickstart/pull/186,13,2
+/TouK/nussknacker-quickstart/blob/main/docker-compose.yml,8,3
+/TouK/nussknacker-quickstart/pull/187,8,1
+/TouK/nussknacker-quickstart/blob/main/.env,6,1
+/TouK/nussknacker-quickstart/blob/main/telegraf/telegraf.conf,6,1
+/TouK/nussknacker-quickstart/tree/main/flink,5,1
+/TouK/nussknacker-quickstart/pull/187/files,4,2
+/TouK/nussknacker-quickstart/blob/main/flink/Dockerfile,4,1
