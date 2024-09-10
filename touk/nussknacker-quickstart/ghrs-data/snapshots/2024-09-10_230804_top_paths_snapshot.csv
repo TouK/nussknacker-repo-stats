@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart/actions,31,2
+/TouK/nussknacker-quickstart/tree/main/docker,30,2
+/TouK/nussknacker-quickstart/blob/main/docker-compose.yml,25,6
+/TouK/nussknacker-quickstart,21,6
+/TouK/nussknacker-quickstart/pull/191,19,2
+/TouK/nussknacker-quickstart/blob/main/quickstart-setup/scripts/utils/nu/load-scenario-from-json-file.sh,18,2
+/TouK/nussknacker-quickstart/blob/staging/docker-compose.yml,16,2
+/TouK/nussknacker-quickstart/blob/main/quickstart-setup/scripts/utils/nu/load-scenario-from-json.sh,16,1
+/TouK/nussknacker-quickstart/pull/189,14,2
+/TouK/nussknacker-quickstart/blob/main/designer/application-customizations.conf,13,3
