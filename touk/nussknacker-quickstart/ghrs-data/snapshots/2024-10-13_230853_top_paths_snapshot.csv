@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,5,4
+/TouK/nussknacker-quickstart/tree/main/docker,5,1
+/TouK/nussknacker-quickstart/actions,3,1
+/TouK/nussknacker-quickstart/blob/main/.env,2,1
+/TouK/nussknacker-quickstart/blob/staging/.env,2,1
+/TouK/nussknacker-quickstart/pull/193/files,2,1
+/TouK/nussknacker-quickstart/tree/staging,2,1
+/TouK/nussknacker-quickstart/blob/staging/docker-compose.yml,1,1
+/TouK/nussknacker-quickstart/blob/zbyszek_example/examples/zbyszek-example/setup/schema-registry/CustomerEvents.schema.json,1,1
+/TouK/nussknacker-quickstart/graphs/traffic,1,1
