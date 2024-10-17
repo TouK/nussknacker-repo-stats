@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,8,4
+/TouK/nussknacker-quickstart/tree/main,5,3
+/TouK/nussknacker-quickstart/blob/main/docker-compose.yml,5,2
+/TouK/nussknacker-quickstart/blob/main/flink/Dockerfile,2,1
+/TouK/nussknacker-quickstart/blob/main/flink/flink-properties.yml,2,1
+/TouK/nussknacker-quickstart/actions,1,1
+/TouK/nussknacker-quickstart/blob/main/.env,1,1
+/TouK/nussknacker-quickstart/tree/main/designer,1,1
+/TouK/nussknacker-quickstart/tree/main/docker,1,1
+/TouK/nussknacker-quickstart/tree/main/flink,1,1
