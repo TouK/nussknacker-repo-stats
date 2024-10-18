@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-sample-components,4,2
+/TouK/nussknacker-sample-components/tree/main/docker,3,1
+/TouK/nussknacker-sample-components/blob/main/components/src/main/scala/pl/touk/nussknacker/sample/SampleComponentProvider.scala,1,1
+/TouK/nussknacker-sample-components/blob/main/docker/Dockerfile,1,1
+/TouK/nussknacker-sample-components/blob/main/flink-components/src/main/scala/pl/touk/nussknacker/sample/FlinkSampleComponentProvider.scala,1,1
