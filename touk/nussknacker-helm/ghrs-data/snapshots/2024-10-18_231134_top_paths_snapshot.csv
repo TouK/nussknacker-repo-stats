@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm,7,7
+/TouK/nussknacker-helm/blob/main/src/templates/deployment.yaml,3,1
+/TouK/nussknacker-helm/tree/main/src,2,2
+/TouK/nussknacker-helm/blob/main/src/templates/grafana-datasource.yml,2,1
+/TouK/nussknacker-helm/commit/9f69533c362e71088fcc21ebfba7cd024345cc44,2,1
+/TouK/nussknacker-helm/blob/main/src/templates/configmap.yaml,1,1
+/TouK/nussknacker-helm/blob/main/src/templates/extra-deploy.yaml,1,1
+/TouK/nussknacker-helm/blob/main/src/templates/flink-k8s-operator/delete-flink-deployments.yaml,1,1
+/TouK/nussknacker-helm/blob/main/src/templates/flink-k8s-operator/flink-deployment-creator-rolebinding.yaml,1,1
+/TouK/nussknacker-helm/blob/main/src/templates/flink-k8s-operator/flink-deployment-creator-role.yaml,1,1
