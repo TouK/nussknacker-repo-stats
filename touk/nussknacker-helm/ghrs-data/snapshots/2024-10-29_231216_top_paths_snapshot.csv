@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm,8,7
+/TouK/nussknacker-helm/blob/main/src/templates/deployment.yaml,6,1
+/TouK/nussknacker-helm/blob/main/src/templates/grafana-dashboard.yml,2,1
+/TouK/nussknacker-helm/blob/main/src/templates/grafana-datasource.yml,2,1
+/TouK/nussknacker-helm/blob/main/src/templates/statefulset.yaml,2,1
+/TouK/nussknacker-helm/tree/main/src,2,1
+/TouK/nussknacker-helm/tree/main/src/templates,2,1
+/TouK/nussknacker-helm/blob/main/deploy-values-kafka-config.yaml,1,1
+/TouK/nussknacker-helm/blob/main/src/templates/configmap.yaml,1,1
+/TouK/nussknacker-helm/blob/main/src/templates/extra-deploy.yaml,1,1
