@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,12,8
+/TouK/nussknacker-quickstart/blob/main/docker-compose.yml,8,5
+/TouK/nussknacker-quickstart/tree/main,3,2
+/TouK/nussknacker-quickstart/tree/old-quickstart,3,2
+/TouK/nussknacker-quickstart/blob/main/common/schemas/alerts-value.json,1,1
+/TouK/nussknacker-quickstart/blob/main/designer/application-customizations.conf,1,1
+/TouK/nussknacker-quickstart/blob/main/docker/streaming/scenarios/DetectLargeTransactionsWithAggregationAndEnricher.json,1,1
+/TouK/nussknacker-quickstart/blob/main/download-and-start.bat,1,1
+/TouK/nussknacker-quickstart/blob/main/download-and-start.sh,1,1
+/TouK/nussknacker-quickstart/blob/main/.env,1,1
