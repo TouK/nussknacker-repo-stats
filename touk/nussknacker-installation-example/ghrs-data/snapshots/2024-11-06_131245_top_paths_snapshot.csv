@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-installation-example,14,6
+/TouK/nussknacker-installation-example/blob/master/docker-compose.yml,9,3
+/TouK/nussknacker-installation-example/blob/master/designer/application-customizations.conf,4,2
+/TouK/nussknacker-installation-example/tree/master/designer,4,2
+/TouK/nussknacker-installation-example/blob/master/flink/flink-properties.yml,3,2
+/TouK/nussknacker-installation-example/tree/master/flink,2,2
+/TouK/nussknacker-installation-example/blob/master/.env,2,1
+/TouK/nussknacker-installation-example/blob/master/start.sh,2,1
+/TouK/nussknacker-installation-example/blob/master/flink/Dockerfile,1,1
