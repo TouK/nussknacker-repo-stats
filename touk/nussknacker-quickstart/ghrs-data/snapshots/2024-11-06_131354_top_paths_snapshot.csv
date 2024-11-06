@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,6,6
+/TouK/nussknacker-quickstart/tree/old-quickstart,2,2
+/TouK/nussknacker-quickstart/activity,1,1
+/TouK/nussknacker-quickstart/blob/main/docker-compose.yml,1,1
+/TouK/nussknacker-quickstart/blob/old-quickstart/docker/streaming/docker-compose-streaming.yml,1,1
+/TouK/nussknacker-quickstart/blob/old-quickstart/docker/streaming/nussknacker/nussknacker.conf,1,1
+/TouK/nussknacker-quickstart/blob/old-quickstart/docker/streaming/scenarios/DetectLargeTransactions.json,1,1
+/TouK/nussknacker-quickstart/blob/old-quickstart/k8s-helm/additional/custom-services.yaml,1,1
+/TouK/nussknacker-quickstart/blob/telecom_marketing_campaign/docker/common/docker-compose-custom.yml,1,1
+/TouK/nussknacker-quickstart/blob/telecom_marketing_campaign/docker/streaming/.env,1,1
