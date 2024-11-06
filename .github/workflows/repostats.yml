@@ -12,7 +12,21 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        statsRepo: ['touk/nussknacker', 'touk/nussknacker-quickstart', 'touk/nussknacker-sample-components', 'touk/nussknacker-sample-helpers', 'touk/nussknacker-helm', 'touk/nussknacker-flink-compatibility', 'touk/nussknacker-elasticsearch-example', 'touk/nussknacker-card-example', 'touk/nussknacker-twitter-example', 'touk/nussknacker-credit-rating-example']
+        statsRepo: 
+          - 'touk/nussknacker'
+          - 'touk/nussknacker-installation-example'
+          - 'touk/nussknacker-quickstart'
+          - 'touk/nussknacker-helm'
+          - 'touk/nussknacker-sample-components'
+          - 'touk/nussknacker-sample-helpers'
+          - 'touk/nussknacker-flink-compatibility'
+          - 'touk/nussknacker-elasticsearch-example'
+          - 'touk/nussknacker-card-example'
+          - 'touk/nussknacker-twitter-example'
+          - 'touk/nussknacker-credit-rating-example'
+          - 'touk/nussknacker-batch-example'
+          - 'touk/nussknacker-iceberg-example'
+          - 'touk/recommendations-showcase-notebook'
       # Do not cancel&fail all remaining jobs upon first job failure.
       fail-fast: false
       # Help avoid commit conflicts. Note(JP): this should not be
