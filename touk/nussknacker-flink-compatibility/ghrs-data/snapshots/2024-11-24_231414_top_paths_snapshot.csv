@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-flink-compatibility,8,7
+/TouK/nussknacker-flink-compatibility/blob/b799fc555698bcfcfaa7f269d4f812c9fb805ac4/flink118/kafka-components/src/main/resources/META-INF/services/pl.touk.nussknacker.engine.flink.api.serialization.SerializersRegistrar,1,1
+/TouK/nussknacker-flink-compatibility/blob/b799fc555698bcfcfaa7f269d4f812c9fb805ac4/flink118/kafka-components/src/main/scala/pl/touk/nussknacker/engine/schemedkafka/kryo/PreFlink119AvroSerializersRegistrar.scala,1,1
+/TouK/nussknacker-flink-compatibility/blob/b799fc555698bcfcfaa7f269d4f812c9fb805ac4/README.md,1,1
+/TouK/nussknacker-flink-compatibility/tree/b799fc555698bcfcfaa7f269d4f812c9fb805ac4/flink118/kafka-components/src/main,1,1
+/TouK/nussknacker-flink-compatibility/tree/b799fc555698bcfcfaa7f269d4f812c9fb805ac4/flink118/kafka-components/src/main/resources/META-INF/services,1,1
+/TouK/nussknacker-flink-compatibility/tree/main/flink118,1,1
+/TouK/nussknacker-flink-compatibility/tree/main/flink118/kafka-components/src/main,1,1
+/TouK/nussknacker-flink-compatibility/tree/main/flink118/kafka-components/src/main/resources/META-INF/services,1,1
