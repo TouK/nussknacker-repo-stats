@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,18,7
+/TouK/nussknacker-quickstart/blob/main/docker-compose.yml,4,3
+/TouK/nussknacker-quickstart/branches,2,1
+/TouK/nussknacker-quickstart/tree/old-quickstart,2,1
+/TouK/nussknacker-quickstart/blob/main/start.sh,1,1
+/TouK/nussknacker-quickstart/blob/old-quickstart/docker/common/docker-compose-custom.yml,1,1
+/TouK/nussknacker-quickstart/blob/old-quickstart/docker/common/docker-compose-env.yml,1,1
+/TouK/nussknacker-quickstart/blob/old-quickstart/docker/common/docker-compose.yml,1,1
+/TouK/nussknacker-quickstart/blob/old-quickstart/docker/streaming/docker-compose-streaming.yml,1,1
+/TouK/nussknacker-quickstart/tree/Artifiicially-Inflated-Traffic,1,1
