@@ -1,5 +1,5 @@
 % Statistics for touk/nussknacker-iceberg-example
-% Generated for [touk/nussknacker-iceberg-example](https://github.com/touk/nussknacker-iceberg-example) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-02-18 23:22 UTC.
+% Generated for [touk/nussknacker-iceberg-example](https://github.com/touk/nussknacker-iceberg-example) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-02-19 23:23 UTC.
 
 
 ## Views
@@ -78,7 +78,7 @@ Top 15 referrers: 01: `nussknacker.io`, 02: `github.com`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/blob/master/iceberg-example.json`, 03: `/blob/master/docker-compose.yml`, 04: `/blob/master/.env`, 05: `/blob/master/nginx/nginx.conf`, 06: `/tree/master/designer`, 07: `/blob/master/flink/Dockerfile`, 08: `/tree/master/telegraf`, 09: `/blob/master/start.sh`, 10: `/stargazers`, 11: `/blob/master/flink/flink-properties.yml`, 12: `/tree/master/postgres`, 13: `/blob/master/designer/Dockerfile`
+Top 15 paths: 01: `/`, 02: `/blob/master/iceberg-example.json`, 03: `/blob/master/docker-compose.yml`, 04: `/blob/master/.env`, 05: `/blob/master/nginx/nginx.conf`, 06: `/tree/master/designer`, 07: `/blob/master/flink/Dockerfile`, 08: `/stargazers`, 09: `/blob/master/designer/Dockerfile`, 10: `/blob/master/flink/flink-properties.yml`, 11: `/tree/master/postgres`, 12: `/tree/master/telegraf`, 13: `/blob/master/start.sh`
 
 
 <script type="text/javascript">
