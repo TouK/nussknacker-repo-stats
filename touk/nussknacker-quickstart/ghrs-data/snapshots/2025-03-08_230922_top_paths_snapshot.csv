@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,11,5
+/TouK/nussknacker-quickstart/tree/old-quickstart,5,2
+/TouK/nussknacker-quickstart/tree/old-quickstart/docker,3,2
+/TouK/nussknacker-quickstart/tree/main,3,1
+/TouK/nussknacker-quickstart/tree/main/flink,3,1
+/TouK/nussknacker-quickstart/blob/old-quickstart/docker/common/docker-compose.yml,2,2
+/TouK/nussknacker-quickstart/tree/old-quickstart/docker/common,2,2
+/TouK/nussknacker-quickstart/blob/main/docker-compose.yml,2,1
+/TouK/nussknacker-quickstart/blob/main/download-and-start.sh,1,1
+/TouK/nussknacker-quickstart/blob/old-quickstart/docker/common/docker-compose-custom.yml,1,1
