@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-batch-example/blob/c14b5974f9633b6c063e481d5acfed6c6dfa8345/flink/flink-conf.yaml,2,1
+/TouK/nussknacker-batch-example/blob/master/showcase-setup/GenerateTransactions.json,2,1
+/TouK/nussknacker-batch-example/blob/master/showcase-setup/SumTransactions.json,2,1
+/TouK/nussknacker-batch-example,1,1
+/TouK/nussknacker-batch-example/blob/c14b5974f9633b6c063e481d5acfed6c6dfa8345/docker-compose.yml,1,1
+/TouK/nussknacker-batch-example/blob/c14b5974f9633b6c063e481d5acfed6c6dfa8345/flink/Dockerfile,1,1
+/TouK/nussknacker-batch-example/blob/master/docker-compose.yml,1,1
+/TouK/nussknacker-batch-example/blob/master/showcase-setup/createScenarios.sh,1,1
+/TouK/nussknacker-batch-example/tree/master/transactions-data/transactions,1,1
