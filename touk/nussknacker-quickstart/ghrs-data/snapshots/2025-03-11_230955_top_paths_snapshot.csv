@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,5,4
+/TouK/nussknacker-quickstart/tree/main/docker/common/customerservice,3,2
+/TouK/nussknacker-quickstart/tree/main,3,1
+/TouK/nussknacker-quickstart/tree/main/flink,3,1
+/TouK/nussknacker-quickstart/tree/old-quickstart,3,1
+/TouK/nussknacker-quickstart/blob/048a16182553909c2ff934d71410e2c40367152f/docker/common/customerservice/main.py,2,2
+/TouK/nussknacker-quickstart/tree/048a16182553909c2ff934d71410e2c40367152f/docker/common/customerservice,2,2
+/TouK/nussknacker-quickstart/tree/main/designer,2,2
+/TouK/nussknacker-quickstart/commits/main,2,1
+/TouK/nussknacker-quickstart/blob/main/designer/application-customizations.conf,1,1
