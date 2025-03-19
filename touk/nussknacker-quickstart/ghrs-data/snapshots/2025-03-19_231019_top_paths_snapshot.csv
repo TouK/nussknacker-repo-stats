@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,6,5
+/TouK/nussknacker-quickstart/tree/main/docker/common/customerservice,4,3
+/TouK/nussknacker-quickstart/blob/048a16182553909c2ff934d71410e2c40367152f/docker/common/customerservice/main.py,2,2
+/TouK/nussknacker-quickstart/tree/048a16182553909c2ff934d71410e2c40367152f/docker/common/customerservice,2,2
+/TouK/nussknacker-quickstart/commits/main,2,1
+/TouK/nussknacker-quickstart/blob/3b49b7940b48bb1fe2887604e93601431d841f7c/flink/flink-properties.yml,1,1
+/TouK/nussknacker-quickstart/blob/main/designer/application-customizations.conf,1,1
+/TouK/nussknacker-quickstart/blob/main/docker-compose.yml,1,1
+/TouK/nussknacker-quickstart/blob/main/flink/flink-properties.yml,1,1
+/TouK/nussknacker-quickstart/blob/main/start.sh,1,1
