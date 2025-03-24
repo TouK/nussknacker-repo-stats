@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-flink-compatibility,4,4
+/TouK/nussknacker-flink-compatibility/blob/main/scripts/formatStagedBackendFiles.sh,2,1
+/TouK/nussknacker-flink-compatibility/tree/main/flink118/manager/src/test,2,1
+/TouK/nussknacker-flink-compatibility/actions,1,1
+/TouK/nussknacker-flink-compatibility/actions/runs/13923999440,1,1
+/TouK/nussknacker-flink-compatibility/actions/runs/13923999440/job/38963669064,1,1
+/TouK/nussknacker-flink-compatibility/blob/main/flink118/manager/src/test/resources/application.conf,1,1
+/TouK/nussknacker-flink-compatibility/blob/main/flink118/manager/src/test/resources/docker/conf.yml,1,1
+/TouK/nussknacker-flink-compatibility/blob/main/flink118/manager/src/test/resources/docker/Dockerfile,1,1
+/TouK/nussknacker-flink-compatibility/blob/main/flink118/manager/src/test/resources/docker/entrypointWithIP.sh,1,1
