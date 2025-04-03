@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,14,6
+/TouK/nussknacker-quickstart/actions,5,2
+/TouK/nussknacker-quickstart/blob/main/docker-compose.yml,4,4
+/TouK/nussknacker-quickstart/actions/runs/14180847556,4,1
+/TouK/nussknacker-quickstart/actions/runs/14156549547,3,1
+/TouK/nussknacker-quickstart/actions/workflows/pr.yml,3,1
+/TouK/nussknacker-quickstart/blob/staging/.github/workflows/pr.yml,2,2
+/TouK/nussknacker-quickstart/tree/main/flink,2,2
+/TouK/nussknacker-quickstart/actions/runs/14007109172/job/39222396386,2,1
+/TouK/nussknacker-quickstart/actions/runs/14156549547/job/39656539302,2,1
