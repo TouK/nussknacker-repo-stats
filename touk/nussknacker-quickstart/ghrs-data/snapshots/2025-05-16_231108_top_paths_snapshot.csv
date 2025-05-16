@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,13,8
+/TouK/nussknacker-quickstart/pull/202,9,1
+/TouK/nussknacker-quickstart/tree/main/flink,3,1
+/TouK/nussknacker-quickstart/blob/main/flink/flink-properties.yml,2,1
+/TouK/nussknacker-quickstart/pull/202/files,2,1
+/TouK/nussknacker-quickstart/tree/main/quickstart-setup/setup/schema-registry/schemas,2,1
+/TouK/nussknacker-quickstart/tree/old-quickstart/docker,2,1
+/TouK/nussknacker-quickstart/blob/main/flink/Dockerfile,1,1
+/TouK/nussknacker-quickstart/blob/old-quickstart/docker/streaming/flink/flink-conf.yaml,1,1
+/TouK/nussknacker-quickstart/compare/nu.2182.fix.metaspace.problems,1,1
