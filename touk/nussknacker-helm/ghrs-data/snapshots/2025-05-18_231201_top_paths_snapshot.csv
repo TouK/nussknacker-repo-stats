@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm/actions,6,1
+/TouK/nussknacker-helm/tree/main,3,2
+/TouK/nussknacker-helm/blob/c1ca1acea400837b86453ec5e6cdea08efcc8af6/src/templates/configmap.yaml,2,2
+/TouK/nussknacker-helm/tree/main/src,2,1
+/TouK/nussknacker-helm,1,1
+/TouK/nussknacker-helm/actions/runs/15065060753,1,1
+/TouK/nussknacker-helm/actions/runs/15065060753/job/42348295544,1,1
+/TouK/nussknacker-helm/blob/c1ca1acea400837b86453ec5e6cdea08efcc8af6/examples/customSecret/secret.yaml,1,1
+/TouK/nussknacker-helm/blob/main/src/templates/configmap.yaml,1,1
+/TouK/nussknacker-helm/blob/main/src/templates/_helpers.tpl,1,1
