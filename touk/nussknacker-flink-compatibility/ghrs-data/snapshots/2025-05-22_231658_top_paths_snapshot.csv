@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-flink-compatibility,2,2
+/TouK/nussknacker-flink-compatibility/blob/main/flink118/kafka-components/src/main/scala/pl/touk/nussknacker/engine/flink/util/transformer/FlinkKafkaComponentProvider.scala,2,1
+/TouK/nussknacker-flink-compatibility/tree/main/flink118,2,1
+/TouK/nussknacker-flink-compatibility/tree/main/flink118/kafka-components/src/main,2,1
+/TouK/nussknacker-flink-compatibility/tree/main/flink118/kafka-components/src/main/resources/META-INF/services,2,1
+/TouK/nussknacker-flink-compatibility/tree/main/flink118/kafka-components/src/main/scala/pl/touk/nussknacker/engine,2,1
+/TouK/nussknacker-flink-compatibility/blob/main/flink118/kafka-components/src/main/resources/META-INF/services/pl.touk.nussknacker.engine.api.component.ComponentProvider,1,1
+/TouK/nussknacker-flink-compatibility/blob/main/flink118/kafka-components/src/main/scala/pl/touk/nussknacker/engine/schemedkafka/kryo/PreFlink119AvroSerializersRegistrar.scala,1,1
+/TouK/nussknacker-flink-compatibility/blob/main/README.md,1,1
+/TouK/nussknacker-flink-compatibility/tree/main/flink118/kafka-components/src/main/scala/pl/touk/nussknacker/engine/flink/util/transformer,1,1
