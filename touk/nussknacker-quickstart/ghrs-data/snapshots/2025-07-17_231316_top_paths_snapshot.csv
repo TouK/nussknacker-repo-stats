@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,8,7
+/TouK/nussknacker-quickstart/blob/main/docker-compose.yml,1,1
+/TouK/nussknacker-quickstart/blob/old-quickstart/common/scripts/createScenario.sh,1,1
+/TouK/nussknacker-quickstart/blob/old-quickstart/common/scripts/runInKafka.sh,1,1
+/TouK/nussknacker-quickstart/blob/old-quickstart/common/scripts/sendTestTransactions.sh,1,1
+/TouK/nussknacker-quickstart/blob/old-quickstart/common/scripts/sendToKafka.sh,1,1
+/TouK/nussknacker-quickstart/blob/old-quickstart/common/scripts/utils.sh,1,1
+/TouK/nussknacker-quickstart/tree/old-quickstart,1,1
+/TouK/nussknacker-quickstart/tree/old-quickstart/common,1,1
+/TouK/nussknacker-quickstart/tree/old-quickstart/common/scripts,1,1
