@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-quickstart,8,7
+/TouK/nussknacker-quickstart/actions/runs/16465876861,2,1
+/TouK/nussknacker-quickstart/actions,1,1
+/TouK/nussknacker-quickstart/actions/runs/16465876861/job/46543012080,1,1
+/TouK/nussknacker-quickstart/blob/main/designer/application-customizations.conf,1,1
+/TouK/nussknacker-quickstart/blob/main/docker-compose.yml,1,1
+/TouK/nussknacker-quickstart/blob/main/grafana/dashboards/nussknacker-lite-scenario.json,1,1
+/TouK/nussknacker-quickstart/blob/main/telegraf/telegraf.conf,1,1
+/TouK/nussknacker-quickstart/graphs/contributors,1,1
+/TouK/nussknacker-quickstart/pulse,1,1
