@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/TouK/nussknacker-helm,10,5
+/TouK/nussknacker-helm/tree/main/src,2,2
+/TouK/nussknacker-helm/blob/main/deploy-values.yaml,1,1
+/TouK/nussknacker-helm/blob/main/src/README.md,1,1
+/TouK/nussknacker-helm/blob/main/src/templates/ingress.yaml,1,1
+/TouK/nussknacker-helm/blob/main/src/values.yaml,1,1
+/TouK/nussknacker-helm/tree/main/src/templates,1,1
